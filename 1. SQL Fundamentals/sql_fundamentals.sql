@@ -1,5 +1,5 @@
 /* 
-*Each definition follows by a basic syntax example of
+*Each definition follows a basic syntax and examples follow at the end
 
 SELECT statement is the most fundamental and most widely used statement.
 SELECT column_name FROM table_name;
